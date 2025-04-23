@@ -1,5 +1,5 @@
-# 💫 About Me: <br>
-About Me: 👋 Hi, I’m @johnsonjoshua16<br>👀 I’m interested in Cloud and mostly Software in general.<br>🌱 I’m currently learning Python, SQL and HTML. However I am looking to further my knowledge by learning languages such as javascript, Swift, C++, etc.<br>📒I’m looking to learn more through projects.<br>📫 How to reach me: Discord is _jayy4k<br>😄 Pronouns: he/him<br>⚡ Fun fact: I was originally going to do Economics and Finance but then, I just picked up my laptop one evening and coded a basic verification system with Python (This is as I had some knowledge prior). That was what made me change my mind and dig deeper into coding.<br><br><br>
+💫 About Me:
+👋 Hi, I’m @johnsonjoshua16<br>👀 I’m interested in Cloud and mostly Software in general.<br>🌱 I’m currently learning Python, SQL and HTML. However I am looking to further my knowledge by learning languages such as javascript, Swift, C++, etc.<br>📒I’m looking to learn more through projects.<br>📫 How to reach me: Discord is _jayy4k<br>😄 Pronouns: he/him<br>⚡ Fun fact: I was originally going to do Economics and Finance but then, I just picked up my laptop one evening and coded a basic verification system with Python (This is as I had some knowledge prior). That was what made me change my mind and dig deeper into coding.<br><br><br>
 
 
 ## 🌐 Socials:
