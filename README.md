@@ -1,6 +1,25 @@
-<b>💫 About Me:</b> <br>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👋 Hi, I’m @johnsonjoshua16<br>👀 I’m interested in AI and mostly Software in general.<br>🌱 I’m currently a Staple Software Engineer mostly learning Python, SQL and HTML. However I am looking to further my knowledge by learning languages such as JS, Java, C/C++, etc in the future.<br>📒I’m looking to learn more through projects and other insights.<br>📫 How to reach me: Discord is sleeky24.<br>😄 Pronouns: he/him.<br>⚡ Fun fact: My favourite project is my rock, paper, scissors game as it not only was a project for me to grow but it also helped me develop in more understanding how things in the programming world work.<br><br><br>
+## 👨‍💻 About Me
+
+Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about building scalable, user-friendly software solutions that make a difference. With a strong foundation in full-stack development, I enjoy tackling complex technical challenges and delivering clean, efficient code that powers real-world applications.
+
+### 🔧 What I Do
+- Craft robust and maintainable software. 
+- Collaborate closely with cross-functional teams to ship **Staple** features quickly and reliably  
+- Write testable, performant code with a focus on long-term maintainability  
+- Explore new tools, and best practices to stay ahead in a fast-moving industry.
+
+### 🚀 Tech I'm Currently Using  
+- **Backend:** Python.
+- **Tools:** Git, GitHub, VSCode. 
+- **Cloud/Infra:** (Yet to develop on this)
+
+### 🌱 Currently Exploring
+- Python MySQL  
+- Web applications with HTML
+- Clean architecture and system design patterns
+
+### 📫 Let's Connect
+Whether it's a question, idea, or collaboration—I'm always open to connecting. Feel free to reach out or check out my projects below!
 
 
 ## 🌐 Socials:
