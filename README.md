@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about building scalable, user-friendly software solutions that make a difference. With a strong foundation in full-stack development, I enjoy tackling complex technical challenges and delivering clean, efficient code that powers real-world applications.
+Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about building scalable, user-friendly software solutions that make a difference. With a strong foundation in development, I enjoy tackling complex technical challenges and delivering clean, efficient code that powers real-world applications.
 
 ### 🔧 What I Do
 - Craft robust and maintainable software. 
