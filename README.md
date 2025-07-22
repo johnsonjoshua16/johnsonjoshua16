@@ -8,7 +8,7 @@ Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about buil
 - Write testable, performant code with a focus on long-term maintainability  
 - Explore new tools, and best practices to stay ahead in a fast-moving industry.
 
-### 🚀 Tech I'm Currently Using  g
+### 🚀 Tech I'm Currently Using  
 - **Backend:** Python.
 - **Tools:** Git, GitHub, VSCode. 
 - **Cloud/Infra:** AWS
