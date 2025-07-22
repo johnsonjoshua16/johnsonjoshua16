@@ -4,7 +4,7 @@ Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about buil
 
 ### 🔧 What I Do
 - Craft robust and maintainable software. 
-- Collaborate closely with cross-functional teams to ship **Staple** features quickly and reliably  
+- Collaborate closely with cross-functional teams to ship features quickly and reliably  
 - Write testable, performant code with a focus on long-term maintainability  
 - Explore new tools, and best practices to stay ahead in a fast-moving industry.
 
