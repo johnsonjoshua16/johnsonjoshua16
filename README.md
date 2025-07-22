@@ -14,9 +14,9 @@ Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about buil
 - **Cloud/Infra:** AWS
 
 ### 🌱 Currently Exploring
-- Python MySQL  
+- Python, MySQL  
 - Web applications with HTML
-- Clean architecture and system design patterns
+- Clean architecture and system design patterns, AWS
 
 ### 📫 Let's Connect
 Whether it's a question, idea, or collaboration—I'm always open to connecting. Feel free to reach out or check out my projects below!
