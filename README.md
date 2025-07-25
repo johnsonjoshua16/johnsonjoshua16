@@ -16,7 +16,7 @@ Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about buil
 ### 🌱 Currently Exploring
 - Python, MySQL, Git, Linux
 - Web applications with HTML
-- AWS
+- AWS, Azure
 
 ### 📫 Let's Connect
 Whether it's a question, idea, or collaboration—I'm always open to connecting. Feel free to reach out or check out my projects below!
