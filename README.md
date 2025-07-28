@@ -15,7 +15,7 @@ Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about buil
 
 ### 🌱 Currently Exploring
 - Python, MySQL, Git, Linux.
-- Web applications with HTML
+- Web applications with HTML.
 - GenAI
 
 ### 📫 Let's Connect
