@@ -10,7 +10,7 @@ Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about buil
 
 ### 🚀 Tech I'm Currently Using  
     - Backend: Python, MySQL.
-    - Tools:** GitHub, VSCode. 
+    - Tools: GitHub, VSCode. 
     - Cloud/Infra: AWS.
 
 ### 🌱 Currently Exploring
