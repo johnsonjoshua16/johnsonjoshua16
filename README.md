@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-<img width="1536" height="300" alt="image" src="https://github.com/user-attachments/assets/3b46c436-ac43-4380-a128-e12516228178" />
+<img width="1536" height="400" alt="image" src="https://github.com/user-attachments/assets/3b46c436-ac43-4380-a128-e12516228178" />
 
 
 Hi there! I'm a dedicated Software Engineer at **Staple**, passionate about building scalable, user-friendly software solutions that make a difference. With a good foundation in development, I enjoy tackling complex technical challenges and delivering clean, efficient code that powers real-world applications.
