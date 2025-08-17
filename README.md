@@ -18,7 +18,7 @@ Hi there! I'm a dedicated Software Engineer at **Staple** level. While still stu
 ### 🌱 Currently Exploring
     - Python, MySQL, Git.
     - Cloud
-    - AI
+    - AI Automation
 
 ### 📫 Let's Connect
 Whether it's a question, idea, or collaboration—I'm always open to connecting. Feel free to reach out or check out my projects below!
