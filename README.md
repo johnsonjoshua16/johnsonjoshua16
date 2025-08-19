@@ -13,10 +13,6 @@
     - Tools: GitHub, VSCode, n8n. 
     - Cloud/Infra: AWS.
 
-### 🌱 Currently Exploring
-    - Python, MySQL, Git, JavaScript.
-    - Cloud
-    - AI Automation
 
 ### 📫 Let's Connect
 Whether it's a question, idea, or collaboration—I'm always open to connecting. Feel free to reach out or check out my projects below!
