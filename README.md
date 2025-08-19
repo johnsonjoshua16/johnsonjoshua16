@@ -10,11 +10,11 @@
 
 ### 🚀 Tech I'm Currently Using  
     - Backend: Python, MySQL.
-    - Tools: GitHub, VSCode. 
+    - Tools: GitHub, VSCode, n8n. 
     - Cloud/Infra: AWS.
 
 ### 🌱 Currently Exploring
-    - Python, MySQL, Git.
+    - Python, MySQL, Git, JavaScript.
     - Cloud
     - AI Automation
 
