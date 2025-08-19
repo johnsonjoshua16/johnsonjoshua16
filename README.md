@@ -1,7 +1,7 @@
 <img width="1536" height="400" alt="image" src="https://github.com/user-attachments/assets/3b46c436-ac43-4380-a128-e12516228178" />
 
 
-### 🔧 What I Dof
+### 🔧 What I Do
     - Study Computer Science.
     - Craft robust and maintainable software. 
     - Collaborate closely with cross-functional teams to ship features quickly and reliably.
