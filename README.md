@@ -1,4 +1,4 @@
-### 🔧 What I Dof
+### 🔧 What I Do
     - Study Computer Science.
     - Craft robust and maintainable software. 
     - Collaborate closely with cross-functional teams to ship features quickly and reliably.
