@@ -1,4 +1,4 @@
-### 🔧 What I Do
+### 🔧 What I Doh
     - Study Computer Science.
     - Craft robust and maintainable software. 
     - Collaborate closely with cross-functional teams to ship features quickly and reliably.
