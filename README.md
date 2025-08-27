@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=johnsonjoshua16&icon=0&color=0"/>
+
 </p>
 
 <h2 align="center">💰 You can help me by Donating</h2>
@@ -63,3 +63,7 @@
 <p align="center">
   <a href="https://paypal.me/squared18372"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 </p>
+
+
+
+![snake gif](https://github.com/johnsonjoshua16/johnsonjoshua16/blob/output/github-snake-dark.svg)
