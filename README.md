@@ -42,7 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonjoshua16&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
-![snake gif](https://github.com/johnsonjoshua16/johnsonjoshua16/blob/output/github-snake-dark.svg)
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 
