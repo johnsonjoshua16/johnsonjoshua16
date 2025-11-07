@@ -74,7 +74,7 @@
 </p>
 
 <h3 align="center" style="color:white;">
-  🚀 Analysing, Automating, and Coding.
+  🚀 Analyse. Automate. Code.
 </h3>
 
 
