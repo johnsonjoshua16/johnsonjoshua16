@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8a2be2&text=Hi,%20I'm%20Joshua&fontColor=ffffff&desc=Python%20•%20Automation%20•%20AI%20•%20Data&descAlign=50&fontAlign=50&fontAlignY=45"/>
+</p>
+
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/MIT-%23A31F34.svg?style=for-the-badge&logo=mit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-%23007ACC.svg?style=for-the-badge&logo=cursor&logoColor=white"/>
@@ -27,9 +30,6 @@
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"/>
-<img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"/>
-<img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -52,18 +52,18 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=johnsonjoshua16&theme=dark&hide_border=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonjoshua16&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=johnsonjoshua16&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=johnsonjoshua16&show_icons=true&count_private=true&theme=default">
+  <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=johnsonjoshua16&show_icons=true&count_private=true&theme=default" height="200px">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=johnsonjoshua16&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=johnsonjoshua16&layout=compact&langs_count=8&theme=default">
+  <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=johnsonjoshua16&layout=compact&langs_count=8&theme=default" height="200px">
+</picture>
 </p>
-
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
 
 <p align="center">
 
@@ -75,6 +75,11 @@
   <a href="https://paypal.me/squared18372"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 </p>
 
+<h3 align="center" style="color:white;">
+  🚀 Analysing, Automating, and Coding.
+</h3>
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
 
 
