@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft-%23787677.svg?style=for-the-badge&logo=microsoft&logoColor=blue"/>
+
 
 
 </p>
