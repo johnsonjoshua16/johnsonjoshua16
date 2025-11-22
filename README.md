@@ -4,7 +4,6 @@
 
 
 <h2 align="center">💻 Tech Stack</h2>
-
 <p align="center">
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
