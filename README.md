@@ -6,11 +6,10 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/MIT-%23A31F34.svg?style=for-the-badge&logo=mit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-%23007ACC.svg?style=for-the-badge&logo=cursor&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
