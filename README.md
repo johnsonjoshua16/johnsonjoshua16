@@ -18,9 +18,9 @@
 
 Hi, I'm Joshua, my work emphasizes efficient solutions while I concurrently honed my backend development skills to align with my career aspirations.
 
-With a foundation in python development and data, I am passionate about exploring backend services and leveraging data science tools to create impactful solutions that can change the world for the better.
+With a foundation in python development, I am passionate about exploring backend services and leveraging Machine LEarning tools to create impactful solutions that can change the world for the better.
 
-My goal is to advance in Data Science and AI and integrate data-driven solutions into practical, reliable products for clients and for those who may need it.
+My goal is to advance in Machine Learning and AI and integrate data-driven solutions into practical, reliable products for clients and for those who may need it.
 
 <h3>
   <a href="https://johnsonjoshua16.netlify.app/">
@@ -32,7 +32,7 @@ My goal is to advance in Data Science and AI and integrate data-driven solutions
 ## 🛠️ What I'm Currently Working On
 
 - Building Python Applications (PW, CALCAPP)
-- Improving my Backend and Data Science Skills (Currently with SalesData Project)
+- Improving my Backend and ML/DS Skills (Currently with SalesData Project)
 - Sharing projects, Learning and progressing (On X/Twitter, LinkedIn)
 
 
