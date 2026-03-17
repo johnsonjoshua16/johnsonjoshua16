@@ -4,9 +4,7 @@
   <a href="https://www.linkedin.com/in/joshua-johnson-49209537b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" style="display:block;" />
   </a>
-  <a href="https://x.com/_joshuajohnson1">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter" style="display:block;" />
-  </a>
+
   <a href="https://discord.com/users/sleeky229">
     <img src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="display:block;" />
   </a>
