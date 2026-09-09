@@ -37,7 +37,7 @@ My goal is to advance in Machine Learning and AI and integrate data-driven solut
 
 - Artificial Intelligence (AI)
 - Machine Learning Modelling  
-- MySQL
+- Data Science
 
 
 ## 📊 GitHub Stats
